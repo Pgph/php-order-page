@@ -18,6 +18,12 @@
             margin: 20px auto;
             padding: 20px;
         }
+
+        .form {
+            max-width: 460px;
+            margin: 20px auto;
+            padding: 20px;
+        }
     </style>
 </head>
 
@@ -26,7 +32,7 @@
         <div class="container">
             <a href="#" class="brand-logo brand-text">Pizza order</a>
             <ul id="nav-mobile" class="right hide-on-small-and-down">
-                <li><a href="#" class="btn brand z-depth-0">Add a pizza</a></li>
+                <li><a href="Add.php" class="btn brand z-depth-0">Add a pizza</a></li>
             </ul>
         </div>
     </nav>
